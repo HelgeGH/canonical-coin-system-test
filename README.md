@@ -1,4 +1,4 @@
-# canonical-coin-system-test
+# Canonical coin system test
 Test whether a given coin system is canonical or not bases on its denominators. A coin system is canonical if you can produce the optimal combinations of coins for any coin sum by always picking the largest denomation lower than the remaining sum.
 
 ## Input
