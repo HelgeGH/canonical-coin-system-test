@@ -7,8 +7,10 @@ An integer **n**, the number of denominations in the coin system, followed by **
 ## Output
 Outputs 
 > canonical
+
 if the coin system is canonical and
 > non-canonical
+
 if it is not.
 
 ### Example
